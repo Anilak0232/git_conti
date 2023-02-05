@@ -3,3 +3,7 @@ welcome to world
 welocme everyone
 hey everyone
 welcme to the world
+public static void main
+{
+print("hello world")
+}
